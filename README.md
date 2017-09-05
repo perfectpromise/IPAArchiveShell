@@ -1,0 +1,3 @@
+# IPAArchiveShell
+简化版ipa自动打包shell
+使用过程中有任何问题可联系QQ：342528568
